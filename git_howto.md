@@ -12,7 +12,7 @@ git add <название файла>
 
 Создание коммита с комментарием:
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Перечень коммитов:
